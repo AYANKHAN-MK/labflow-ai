@@ -1,5 +1,7 @@
 # LabFlow AI 🧪
 
+App link - https://labflow-ai-3cv96pjar7jbmhowx2xh35.streamlit.app/
+
 AI-assisted issue triage for diagnostic-lab software workflows.
 
 ## Problem
