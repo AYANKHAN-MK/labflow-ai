@@ -1,6 +1,0 @@
-issue_id,workflow,example_issue
-1,Analyzer / Integration,"Since 10:30 AM, hematology analyzer results are not appearing in the validation worklist."
-2,Accession,"Several collected samples show as received physically but are missing from the accession queue."
-3,Validation,"A result reaches the system but does not trigger the expected validation rule."
-4,Inventory,"The reagent stock count differs from the latest consumption record."
-5,Reporting,"The daily report shows a different sample count from the underlying workflow."
